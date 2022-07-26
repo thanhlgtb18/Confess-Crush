@@ -17,7 +17,7 @@ const LEAVE_FULLSCREEN = "";
 const ACTIVATE_KEYBOARD_LOCK = "";
 const DEACTIVATE_KEYBOARD_LOCK = "";
 
-const LOCKED_KEYS = ["MetaLeft", "MetaRight", "Tab", "KeyN", "KeyT","Escape","F11","Calculator"];
+const LOCKED_KEYS = ["MetaLeft", "MetaRight", "Tab", "KeyN", "KeyT","Escape","F11"];
 
 let lock = false;
 
